@@ -1,11 +1,13 @@
-Bundle::POE::All version 1.0
-============================
+Bundle::POE::All version 1.02
+=============================
 
 INSTALLATION
 
 This Bundle installs all the modules under the POE::* namespace
 To install, type the following:
-	perl Install.PL
+
+	perl Makefile.PL
+	make install
 
 Have fun!
 
