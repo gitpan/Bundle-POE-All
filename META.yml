@@ -1,0 +1,10 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Bundle-POE-All
+version:      1.0
+requires:
+    CPANPLUS::Configure:		 0.04
+    CPANPLUS::Backend:                   0.04
+
+distribution_type: script
+generated_by: hand
