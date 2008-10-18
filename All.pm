@@ -1,7 +1,7 @@
 # Dummy file :)
 package Bundle::POE::All;
 use vars qw( $VERSION );
-$VERSION = '1.02';
+$VERSION = '1.03';
 
 # End of module
 1;
@@ -10,6 +10,16 @@ __END__
 =head1 NAME
 
 Bundle::POE::All - Installs all the modules in the POE::* namespace
+
+=head1 SYNOPSIS
+
+	tar -zxf Bundle-POE-All*.tar.gz
+	perl Makefile.PL
+	make install
+
+=head1 ABSTRACT
+
+	This module installs all modules in the POE::* namespace
 
 =head1 DESCRIPTION
 
@@ -24,7 +34,7 @@ Apocalypse E<lt>apocal@cpan.orgE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright 2004 by Apocalypse
+Copyright 2008 by Apocalypse
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.

@@ -1,4 +1,4 @@
-Bundle::POE::All version 1.02
+Bundle::POE::All version 1.03
 =============================
 
 INSTALLATION
@@ -15,11 +15,11 @@ DEPENDENCIES
 
 This Bundle requires these other modules and libraries:
 
-	CPANPLUS > 0.04
+	CPANPLUS > 0.051
 
 COPYRIGHT AND LICENSE
 
-Copyright 2004 by Apocalypse
+Copyright 2008 by Apocalypse
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
